@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="CustomizeExportActionVB" Logo="ExpressAppLogo">
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="11.2.3.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="Contact_ListView">
+      <Columns>
+        <ColumnInfo Id="Department" GroupIndex="0" />
+      </Columns>
+    </ListView>
+  </Views>
+</Application>
