@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomizeWinExportController.cs](./CS/CustomizeExportAction.Module.Win/Controllers/CustomizeWinExportController.cs)
+* [Contact.cs](./CS/CustomizeExportAction.Module/BusinessObjects/Contact.cs)
+* [Updater.cs](./CS/CustomizeExportAction.Module/DatabaseUpdate/Updater.cs)
+* [Model.DesignedDiffs.xafml](./CS/CustomizeExportAction.Module/Model.DesignedDiffs.xafml)
+<!-- default file list end -->
 # How to Customize the Export Action Behavior
 
 
