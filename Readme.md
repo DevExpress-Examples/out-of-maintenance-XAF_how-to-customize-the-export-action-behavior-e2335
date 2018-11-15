@@ -1,3 +1,33 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomizeExportControllerWeb.cs](./CS/CustomizeExportAction.Module.Web/Controllers/CustomizeExportControllerWeb.cs)
+* [CustomizeExportControllerWin.cs](./CS/CustomizeExportAction.Module.Win/Controllers/CustomizeExportControllerWin.cs)
+* [CustomizeExportController.cs](./CS/CustomizeExportAction.Module/Controllers/CustomizeExportController.cs)
+* [Default.aspx](./CS/CustomizeExportAction.Web/Default.aspx)
+* [Default.aspx.cs](./CS/CustomizeExportAction.Web/Default.aspx.cs)
+* [DefaultVertical.aspx](./CS/CustomizeExportAction.Web/DefaultVertical.aspx)
+* [DefaultVertical.aspx.cs](./CS/CustomizeExportAction.Web/DefaultVertical.aspx.cs)
+* [Dialog.aspx](./CS/CustomizeExportAction.Web/Dialog.aspx)
+* [Dialog.aspx.cs](./CS/CustomizeExportAction.Web/Dialog.aspx.cs)
+* [Error.aspx](./CS/CustomizeExportAction.Web/Error.aspx)
+* [Error.aspx.cs](./CS/CustomizeExportAction.Web/Error.aspx.cs)
+* [Global.asax](./CS/CustomizeExportAction.Web/Global.asax)
+* [Global.asax.cs](./CS/CustomizeExportAction.Web/Global.asax.cs)
+* [Login.aspx](./CS/CustomizeExportAction.Web/Login.aspx)
+* [Login.aspx.cs](./CS/CustomizeExportAction.Web/Login.aspx.cs)
+* [Model.xafml](./CS/CustomizeExportAction.Web/Model.xafml)
+* [MoveFooter.js](./CS/CustomizeExportAction.Web/MoveFooter.js)
+* [NestedFrameControl.ascx](./CS/CustomizeExportAction.Web/NestedFrameControl.ascx)
+* [NestedFrameControl.ascx.cs](./CS/CustomizeExportAction.Web/NestedFrameControl.ascx.cs)
+* [SessionKeepAliveReconnect.aspx](./CS/CustomizeExportAction.Web/SessionKeepAliveReconnect.aspx)
+* [SessionKeepAliveReconnect.aspx.cs](./CS/CustomizeExportAction.Web/SessionKeepAliveReconnect.aspx.cs)
+* [TemplateScripts.js](./CS/CustomizeExportAction.Web/TemplateScripts.js)
+* [WebApplication.cs](./CS/CustomizeExportAction.Web/WebApplication.cs)
+* [Model.xafml](./CS/CustomizeExportAction.Win/Model.xafml)
+* [Program.cs](./CS/CustomizeExportAction.Win/Program.cs)
+* [WinApplication.cs](./CS/CustomizeExportAction.Win/WinApplication.cs)
+<!-- default file list end -->
 # How to Customize the Export Action Behavior
 
 
