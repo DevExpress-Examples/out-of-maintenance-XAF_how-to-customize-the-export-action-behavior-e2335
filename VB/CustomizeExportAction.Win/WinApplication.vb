@@ -18,7 +18,7 @@ Namespace CustomizeExportAction.Win
          DelayedViewItemsInitialization = True
       End Sub
 
-      Private Sub CustomizeExportActionWindowsFormsApplication_DatabaseVersionMismatch(ByVal sender As Object, ByVal e As DevExpress.ExpressApp.DatabaseVersionMismatchEventArgs) Handles Me.DatabaseVersionMismatch
+      Private Sub CustomizeExportActionWindowsFormsApplication_DatabaseVersionMismatch(ByVal sender As Object, ByVal e As DevExpress.ExpressApp.DatabaseVersionMismatchEventArgs) Handles MyBase.DatabaseVersionMismatch
             e.Updater.Update()
             e.Handled = True
       End Sub

@@ -32,7 +32,7 @@
           Me.module7 = New DevExpress.ExpressApp.Validation.Win.ValidationWindowsFormsModule()
           Me.scriptRecorderWindowsFormsModule1 = New DevExpress.ExpressApp.ScriptRecorder.Win.ScriptRecorderWindowsFormsModule()
           Me.scriptRecorderModuleBase1 = New DevExpress.ExpressApp.ScriptRecorder.ScriptRecorderModuleBase()
-          CType(Me, System.ComponentModel.ISupportInitialize).BeginInit()
+          DirectCast(Me, System.ComponentModel.ISupportInitialize).BeginInit()
           ' 
           ' module5
           ' 
@@ -50,7 +50,7 @@
           Me.Modules.Add(Me.module7)
           Me.Modules.Add(Me.scriptRecorderModuleBase1)
           Me.Modules.Add(Me.scriptRecorderWindowsFormsModule1)
-          CType(Me, System.ComponentModel.ISupportInitialize).EndInit()
+          DirectCast(Me, System.ComponentModel.ISupportInitialize).EndInit()
 
       End Sub
 
